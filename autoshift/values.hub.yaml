@@ -121,7 +121,7 @@ hubClusterSets:
       infra-nodes-numcores-per-socket: ''
       infra-nodes-zone-1: ''
       ### Worker Nodes
-      worker-nodes: '3'
+      worker-nodes: '6'
       worker-nodes-numcpu: ''
       worker-nodes-memory-mib: ''
       worker-nodes-numcores-per-socket: ''
