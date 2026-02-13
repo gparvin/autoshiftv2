@@ -114,14 +114,14 @@ hubClusterSets:
       aap-custom-cabundle: 'true'
       #aap-version: aap-operator.v2.6.0-0.1762261205
       ### Infrastructure Nodes
-      infra-nodes: ''
+      infra-nodes: '3'
       infra-nodes-provider: aws
       infra-nodes-numcpu: ''
       infra-nodes-memory-mib: ''
       infra-nodes-numcores-per-socket: ''
       infra-nodes-zone-1: ''
       ### Worker Nodes
-      worker-nodes: ''
+      worker-nodes: '3'
       worker-nodes-numcpu: ''
       worker-nodes-memory-mib: ''
       worker-nodes-numcores-per-socket: ''
